@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef13b6ff.css",
+    "main.js": "/static/js/main.35d21d90.js",
+    "static/media/nimro.jpg": "/static/media/nimro.fcdfac766e19e1fa9fcd.jpg",
+    "static/media/logo.png": "/static/media/logo.019682feddc6460646b2.png",
+    "static/media/masala.jpg": "/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/fooda.jpeg": "/static/media/fooda.875b8ccf56acb74c6e73.jpeg",
+    "static/media/food.jpeg": "/static/media/food.05892fe97cce26a5d9e5.jpeg",
+    "index.html": "/index.html",
+    "main.ef13b6ff.css.map": "/static/css/main.ef13b6ff.css.map",
+    "main.35d21d90.js.map": "/static/js/main.35d21d90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef13b6ff.css",
+    "static/js/main.35d21d90.js"
+  ]
+}
