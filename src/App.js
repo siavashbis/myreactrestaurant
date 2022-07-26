@@ -11,7 +11,7 @@ import Contact from "./pages/Contact";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/myreactrestaurant">
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
