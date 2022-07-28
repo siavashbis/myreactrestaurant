@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myreactrestaurant/static/css/main.ef13b6ff.css",
-    "main.js": "/myreactrestaurant/static/js/main.7f42fa58.js",
+    "main.js": "/myreactrestaurant/static/js/main.dfdb61ac.js",
     "static/media/nimro.jpg": "/myreactrestaurant/static/media/nimro.fcdfac766e19e1fa9fcd.jpg",
     "static/media/logo.png": "/myreactrestaurant/static/media/logo.019682feddc6460646b2.png",
     "static/media/masala.jpg": "/myreactrestaurant/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
@@ -9,10 +9,10 @@
     "static/media/food.jpeg": "/myreactrestaurant/static/media/food.05892fe97cce26a5d9e5.jpeg",
     "index.html": "/myreactrestaurant/index.html",
     "main.ef13b6ff.css.map": "/myreactrestaurant/static/css/main.ef13b6ff.css.map",
-    "main.7f42fa58.js.map": "/myreactrestaurant/static/js/main.7f42fa58.js.map"
+    "main.dfdb61ac.js.map": "/myreactrestaurant/static/js/main.dfdb61ac.js.map"
   },
   "entrypoints": [
     "static/css/main.ef13b6ff.css",
-    "static/js/main.7f42fa58.js"
+    "static/js/main.dfdb61ac.js"
   ]
 }
